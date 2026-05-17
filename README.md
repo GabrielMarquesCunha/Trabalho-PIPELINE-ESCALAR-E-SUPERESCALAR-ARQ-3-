@@ -13,7 +13,7 @@ e aplicação do Algoritmo de Tomasulo. A renomeação de registradores é uti-
 lizada para eliminar falsas dependências e ampliar o paralelismo. Por fim, os
 resultados são integrados por meio da análise de métricas como CPI e IPC,
 discutindo limites, custos e mecanismos de hardware voltados à melhoria de
-desempenho em processadores modernos.
+desempenho em processadores modernos. O livro base consultado é "Arquitetura de Computadores, uma Abordagem Quantitativa", de Hennessy e Patterson.
 
 <img align="center" alt="RiscV" height="15" width="150" src="https://github.com/gustavovalcastro/algoritmo-tomasulo/assets/88516429/c40ca4b6-a9a3-4467-bb05-8f0628dc2c5f"> 
 
